@@ -1,0 +1,17 @@
+# scope.txt
+# Programa: Ubisoft Responsible Disclosure Program
+# Plataforma: Intigriti
+# Consultado: 2026-11-02
+
+# Aplicaciones web y API públicas propiedad y operadas por Ubisoft
+*.ubisoft.com
+*.ubi.com
+*.ubisoftconnect.com
+
+# Fuera de alcance: dominios excluidos expresamente
+!forums.ubisoft.com
+!ivalua.ubisoft.com
+!suppliers-ivalua.ubisoft.com
+
+# Juego excluido expresamente:
+# The Settlers Online
