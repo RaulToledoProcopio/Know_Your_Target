@@ -4,6 +4,12 @@
 # Consultado: 2026-11-02
 
 # Aplicaciones web y API públicas propiedad y operadas por Ubisoft
+# Dominios raíz incluidos por la categoría general de aplicaciones públicas
+ubisoft.com
+ubi.com
+ubisoftconnect.com
+
+# Patrones de subdominios indicados como ejemplos en la política
 *.ubisoft.com
 *.ubi.com
 *.ubisoftconnect.com

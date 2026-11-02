@@ -23,6 +23,7 @@ El programa permite comunicar vulnerabilidades de seguridad relacionadas con ser
   - `*.ubisoft.com`
   - `*.ubi.com`
   - `*.ubisoftconnect.com`
+- La política describe como dentro del alcance las aplicaciones web y API públicas propiedad y operadas por Ubisoft, y presenta esos comodines como ejemplos. Por ello, los dominios raíz `ubisoft.com`, `ubi.com` y `ubisoftconnect.com` se incluyen por separado en `scope.txt` como sitios públicos oficiales de Ubisoft; no se deduce su inclusión de la sintaxis de los comodines.
 - Aplicaciones oficiales de escritorio, como Ubisoft Connect.
 - Aplicaciones móviles oficiales destinadas a servicios corporativos, gestión de cuentas o funcionalidades complementarias.
 - Infraestructura corporativa y servicios online propiedad y operados por Ubisoft.
@@ -53,4 +54,3 @@ Entre los títulos indicados en el programa se encuentran Rainbow Six Siege, The
 - La información personal que se encuentre accidentalmente está fuera del alcance. Se debe detener la investigación y no almacenarla ni copiarla.
 - No se pueden divulgar públicamente los detalles de vulnerabilidades encontradas sin autorización expresa de Ubisoft.
 - El programa dispone de protección de puerto seguro (Safe Harbour) para investigadores que respeten sus condiciones.
-
